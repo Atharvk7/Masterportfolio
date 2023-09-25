@@ -25,8 +25,8 @@ const greeting = {
   subTitle:
     "A passionate Full Stack developer who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
-  portfolio_repository: "https://github.com/Atharvk7/myportfolio",
+    "https://drive.google.com/file/d/12IHSbZWIRpPD_rLk2b-qNLkq25BmMfmP/view?usp=sharing",
+  portfolio_repository: "https://github.com/Atharvk7/Masterportfolio",
   githubProfile: "https://github.com/Atharvk7",
 };
 
@@ -69,9 +69,9 @@ const skills = {
       title: "Frontend Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Building responsive website front end using React-Redux, NextJS and Supabase. ",
+        "⚡ Currently learning VueJS and React-Native. ",
+        "⚡ I have more than 1 year of experience in Frontend development.",
       ],
       softwareSkills: [
         {
@@ -146,10 +146,11 @@ const skills = {
       title: "Backend Development and DevOps",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Worked on multiple backend techonologies like FastAPI, Django but have more experience with NodeJS and ExpressJS. ",
+        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases. ",
+        "⚡ Worked on NoSQL as well as SQL databases and used Redis for caching.",
+        "⚡ Experience working on multiple cloud platforms Especially DigitalOcean and AWS. ",
+
       ],
       softwareSkills: [
         {
@@ -278,7 +279,7 @@ const certifications = {
       logo_path: "hackerrank.png",
       certificate_link:
         "https://www.hackerrank.com/certificates/5bed0dd73506",
-      alt_name: "Stanford University",
+      alt_name: "Hackerrank",
       color_code: "cyan",
     },
     {
@@ -287,25 +288,25 @@ const certifications = {
       logo_path: "sololearn.png",
       certificate_link:
         "https://www.sololearn.com/Certificate/CT-FRNXGVPP/png",
-      alt_name: "Google",
+      alt_name: "C++ programming",
       color_code: "black",
     },
     {
       title: "React and Redux",
-      subtitle: "- Alex Aklson",
+      subtitle: "",
       logo_path: "sololearn.png",
       certificate_link:
         "https://www.sololearn.com/Certificate/CT-RLJP9LS5/jpg",
-      alt_name: "IBM",
+      alt_name: "Sololearn",
       color_code: "black",
     },
  {
       title: "Frontend Development",
-      subtitle: "- Andrew Ng",
+      subtitle: "",
       logo_path: "greatlearning.png",
       certificate_link:
         "",
-      alt_name: "deeplearning.ai",
+      alt_name: "Frontend Development",
       color_code: "white",
     },
 
@@ -319,7 +320,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have worked with many evolving startups as Frontend and Backend Developer for more than 1 year. I love open source contributions and that is why I am also involved with many opensource communities as a contributor.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -334,7 +335,7 @@ const experience = {
           duration: "Feb 2023 - Sept 2023",
           location: "CA, USA (remote)",
           description:
-            "I worked NextJS, NodeJS, MySQL and DigitalOcean based stack ",
+            " Worked on the front end and created responsible, maintainable, and reusable components for the web app. Optimized image handling on the client side. Created robust and scalable REST APIs in the ExpressJS, backend and implemented testingwith mocha. Worked on MySQL, NextJS, NodeJS, and DigitalOcean tech stack. ",
           color: "#0879bf",
         },
         {
@@ -345,7 +346,7 @@ const experience = {
           duration: "April 2022 - June 2022",
           location:"Remote India",
           description:
-            "I worked on Frontend components, API integrations in ReactJS",
+            " Worked with Frontend-team and created reusable components using ReactJS. Created responsive pages with maintainable code, modified some components, and integrated frontend with backend.",
           color: "#9b1578",
         },
         {
@@ -356,7 +357,7 @@ const experience = {
           duration: "July 2022 - Jan 2023",
           location: "Remote India",
           description:
-            "I taught JavaScript to hundreads of university students from basics and programming fundamentals.",
+            "I taught JavaScript Structures and Algorithms to hundreads of university students from basics and programming fundamentals.",
           color: "#fc1f20",
         },
       ],
@@ -373,7 +374,7 @@ const experience = {
           duration: "20th May - 10th August 2023",
           location: "Pune India",
           description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+            "Contributed to couple of issues in this open source program primary worked on JavaScript. ",
           color: "#4285F4",
         },
         {
@@ -397,7 +398,7 @@ const experience = {
           duration: "Jan 2018 - May 2020",
           location: "Kurnool, Andhra Pradesh",
           description:
-            "We have well established developer club in college which is directly associated with Google Developers. We have developed many interdisciplinary projects under the membership of this club. We have organised workshops and activities on Android Application Development, Flutter and React JS.",
+            "We have well established developer club in college. I developed many interdisciplinary projects under the membership of this club. I developed applications using Supabase, React and Redux. ",
           color: "#0C9D58",
         },
      

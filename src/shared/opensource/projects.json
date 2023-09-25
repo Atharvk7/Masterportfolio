@@ -2,10 +2,10 @@
   "data": [
     {
       
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
+      "name": "Portfolio web app",
+      
       "url": "https://github.com/atharvk7/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "description": "🔥 The Complete Customizable Software Developer Portfolio which lets you showcase your work and provides each and every detail about you as Software Developer.",
       "isFork": false,
       "languages": [
         {
@@ -29,9 +29,9 @@
     {
       "id": "R_kgDOG_vYHA",
       "name": "Nexus- A Social Media App",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/atharvk7/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+  
+      "url": "https://github.com/Atharvk7/Nexus-Social-Media-App",
+      "description": "📦 It is MERN stack based Social Media Website where we can publish, edit ,create and delete our posts with images and JWT authentication is also provided. ",
       "isFork": false,
       "languages": [
         {
@@ -58,9 +58,8 @@
     {
       "id": "R_kgDOG0_8uQ",
       "name": "Talkstream - A webRTC app",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/Atharvk7/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "url": "",
+      "description": "🌀 It is webRTC based video calling web app built in ReactJS, Redux and NodeJS with Socket.io, It also provides chatting feature.",
       "isFork": false,
       "languages": [
        
@@ -85,9 +84,8 @@
     {
       "id": "R_kgDOGcPKSQ",
       "name": "Chrome Extension",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/Atharvk7/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "url": "https://github.com/Atharvk7/Chromeextension",
+      "description": "⚙️ It is simple chrome extension which gives you wither a joke or a motivational quote when you bore while programming. ",
       "isFork": false,
       "languages": [
         {
@@ -99,9 +97,8 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
       "name": "CreamCart",
-      "createdAt": "2021-01-06T06:36:41Z",
-      "url": "https://github.com/Atharvk7/react-awesome-loaders",
-      "description": "🚀  High quality, super responsive and completely customisable Loading Animations to insert into your website with single line of code.",
+      "url": "https://github.com/Atharvk7/myproject-django",
+      "description": "🚀  It is E-Commerce website built with Django using buit-in ORM and authentication from Django. ",
       "isFork": false,
       "languages": [
         {
@@ -125,9 +122,8 @@
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
       "name": "Recipe App",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/Atharvk7/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
+      "url": "https://github.com/Atharvk7/Recipe-App",
+      "description": "🚀 It is simple react app that gives you recipes of your fevourite dishes. ",
       "isFork": false,
       "languages": [
         {

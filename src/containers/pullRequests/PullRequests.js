@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import "./PullRequests.css";
 import { Fade } from "react-reveal";
 import PullRequestCard from "../../components/pullRequestCard/PullRequestCard";
-import pullRequestsData from "../../shared/opensource/pull_requests.json";
 
 class PullRequests extends Component {
   render() {
@@ -16,11 +15,7 @@ class PullRequests extends Component {
             </h1>
           </Fade>
         </div>
-        <div className="pull-request-body-div">
-          {pullRequestsData["data"].map((pullRequest) => {
-            return <PullRequestCard pullRequest={pullRequest} />;
-          })}
-        </div>
+       
       </div>
     );
   }
