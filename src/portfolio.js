@@ -66,11 +66,11 @@ const skills = {
   data: [
 
     {
-      title: "Frontend Development",
+      title: "Frontend and native app Development ",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux, NextJS and Supabase. ",
-        "⚡ Currently learning VueJS and React-Native. ",
+        "⚡ Building responsive website front end using React-Redux, NextJS and Supabase with pixel perfect UI. ",
+        "⚡ I am also skilled in native app developement using React Native. ",
         "⚡ I have more than 1 year of experience in Frontend development.",
       ],
       softwareSkills: [
@@ -104,7 +104,7 @@ const skills = {
           },
         },
         {
-          skillName: "ReactJS",
+          skillName: "ReactJS and React native",
           fontAwesomeClassname: "simple-icons:react",
           style: {
             color: "#61DAFB",
@@ -327,6 +327,17 @@ const experience = {
       title: "Work",
       work: true,
       experiences: [
+                {
+          title: "Software Developer",
+          company: "Corma",
+          company_url: "https://corma.io",
+          logo_path: "corma_logo.jpg",
+          duration: "Jan 2024 - Present",
+          location: "Paris, France (remote)",
+          description:
+            " Created Backend from scratch on Fastify, NodeJS with Prisma ORM , Designed robust and scalable REST API structure. Improved frontend performance by optimizing the existing NextJS App. Worked on Vercel, AWS RDS, AWS EC2 and S3. ",
+          color: "#0879bf",
+        },
         {
           title: "Full stack developer",
           company: "MindKind Inc.",
@@ -357,7 +368,7 @@ const experience = {
           duration: "July 2022 - Jan 2023",
           location: "Remote India",
           description:
-            "I taught JavaScript Structures and Algorithms to hundreads of university students from basics and programming fundamentals.",
+            "I taught JavaScript and Data Structures and Algorithms to hundreads of university students from basics and programming fundamentals.",
           color: "#fc1f20",
         },
       ],
@@ -411,7 +422,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create Full stack projects for learning new technologies and frameworks.",
   avatar_image_path: "projects_image.svg",
 };
 

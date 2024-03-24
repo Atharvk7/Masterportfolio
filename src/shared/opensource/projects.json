@@ -52,17 +52,24 @@
         },
         {"name":"MongoDB",
         "iconifyClass":"simple-icons:mongodb"
-      }
+      },
+      {
+          "name": "Mongoose",
+          "iconifyClass": "simple-icons:mongoose"
+        }
       ]
     },
     {
       "id": "R_kgDOG0_8uQ",
       "name": "Talkstream - A webRTC app",
-      "url": "",
+      "url": "https://github.com/Atharvk7/TalkStream",
       "description": "🌀 It is webRTC based video calling web app built in ReactJS, Redux and NodeJS with Socket.io, It also provides chatting feature.",
       "isFork": false,
       "languages": [
-       
+       {
+          "name": "WebRTC",
+          "iconifyClass": "simple-icons:webrtc"
+        },
         {
           "name": "ReactJS",
           "iconifyClass": "simple-icons:react"
@@ -121,18 +128,26 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "Recipe App",
-      "url": "https://github.com/Atharvk7/Recipe-App",
+      "name": "URL Shortener",
+      "url": "https://github.com/Atharvk7/URL-shortener",
       "description": "🚀 It is simple react app that gives you recipes of your fevourite dishes. ",
       "isFork": false,
       "languages": [
         {
-          "name": "JavaScript",
+          "name": "ReactJS",
           "iconifyClass": "logos-javascript"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "MongoDB",
+          "iconifyClass": "simple-icons:mongodb"
+        },
+        {
+          "name":"NodeJS",
+          "iconifyClass":"simple-icons:express"
+        },
+            {
+          "name": "Mongoose",
+          "iconifyClass": "simple-icons:mongoose"
         }
       ]
     }
